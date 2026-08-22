@@ -166,16 +166,5 @@ The query produces **939 rows** (3 stores × 313 products):
 - Consider using a **rolling window** (e.g., last 30 days) for more accurate predictions
 - The query assumes **consistent sales patterns** (no seasonality adjustment)
 
-## 📄 License
-
-GPL-3.0 License - Free and open source software.
-
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For questions or feedback, please open an issue on GitHub.
-
----
 
 **Hamrah Aval Academy** - Database Course Project  
